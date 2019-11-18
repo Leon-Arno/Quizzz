@@ -2,7 +2,7 @@
   <div>
     <b-jumbotron>
       <template slot="lead">{{currentQuestion.question}}</template>
-      <hr class="my-4">
+      <hr class="my-4" />
 
       <b-list-group>
         <b-list-group-item
